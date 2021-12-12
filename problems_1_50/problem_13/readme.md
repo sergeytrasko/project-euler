@@ -4,7 +4,7 @@
 
 ## Solution idea
 
-I think I cheated here as I used golang's big package that provides functions to work with long integers.
+I think I cheated here as I used golang's `big` package that provides functions to work with long integers.
 
 ## Alternative solutions
 

@@ -4,8 +4,8 @@
 
 ## Solution idea
 
-Brute-force solution. As a+b+c=1000, this means that a, b and c should be less than 1000 (you can do careful calculation and come up with better lower bound).
-Just iterate a and b from 1 to 1000 and check if a, b and 1000-a-b form a right triangle.
+Brute-force solution. As `a+b+c=1000`, this means that `a`, `b` and `c` should be less than 1000 (you can do careful calculation and come up with better lower bound).
+Just iterate a and b from 1 to 1000 and check if `a`, `b` and `1000-a-b` form a right triangle.
 
 ## Alternative solutions
 

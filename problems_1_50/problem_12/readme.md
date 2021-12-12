@@ -4,11 +4,11 @@
 
 ## Solution idea
 
-Triangular numbers have the formula T(n) = n*(n+1)/2
+Triangular numbers have the formula `T(n) = n*(n+1)/2`
 
-Note that n and (n+1) are co-prime numbers meaning that they will have different divisors.
+Note that `n` and `(n+1)` are co-prime numbers meaning that they will have different divisors.
 
-This means that we can reduce the complexity of the problem to count divisors by just counting divisors of n and of n+1
+This means that we can reduce the complexity of the problem to count divisors by just counting divisors of `n` and of `n+1`
 
 ## Alternative solutions
 

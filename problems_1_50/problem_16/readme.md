@@ -4,7 +4,7 @@
 
 ## Solution idea
 
-Once again (as in [problem 13](../problem_13)) using golang's built-in big package - calculate 2^1000 using Pow function, convert to string and calculate sum of digits.
+Once again (as in [problem 13](../problem_13)) using golang's built-in `big` package - calculate 2^1000 using Pow function, convert to string and calculate sum of digits.
 
 ## Alternative solutions
 

@@ -2,18 +2,41 @@
 
 ![My profile](https://projecteuler.net/profile/sergeytrasko.png)
 
+https://projecteuler.net
+
+## Why I solve Project Euler problems
+
+First of all - it is fun. Some 20 years back I used to participate in programming competitions (i.e. solving algorithmic problems).
+Since that I'm mostly working in enterprise environment and solving different types of problems. It's always good to shake your memory.
+
+Secondly - it allows me to switch focus from my day-to-day work and refresh my former knowledge.
+
+Thirdly - it forces me to discover new things for me, new algorithms, new approaches, etc.
+
+And last, but not least - I do enjoy cracking these quite challenging problems.
+
 ## Things I learned solving Project Euler problems
 
-- Programming language is not important, I chose golang but I could have achieved the same results with any other language
-- First 50 or so problems can be solved without knowing anything about algorithms - mostly brute-force solutions are viable
-- The bigger the problem number, the more complex they are. I.e. 5% problem from first hundred problems is much easier than 5% problem from 7-th hundred
+- Programming language is not important, I chose golang but I could have achieved the same results with any other language.
+- First 50 or so problems can be solved without knowing anything about algorithms - mostly brute-force solutions are viable. I think I wrote solutions for them during two or maybe three evenings.
+- The bigger the problem number, the more complex they are. I.e. 5% problem from first hundred problems is much easier than 5% problem from 7-th hundred.
+- Getting to top 1% (at the time of writing it is equivalent of solving 111 or more problems) is not that hard. It took me about 2 weeks to reach this milestone (mosly solving problems in the evenings)
+- Useful tools to use:
+  - https://www.alpertron.com.ar/QUAD.HTM - generic quadratic Diophantine equation solver - will be used in a number of problems
+  - https://www.wolframalpha.com/ - Wolfram Alpha is a great tool to quickly investigate some functions and expressions, this might not give you solution but can help to verify your assumptions
+- Nice techniques to master (they are used in many problems):
+  - Dynamic programming - https://en.wikipedia.org/wiki/Dynamic_programming
+  - Prime numbers - https://en.wikipedia.org/wiki/Prime_number
+  - Euler's totient function - https://en.wikipedia.org/wiki/Euler%27s_totient_function
+  - Fibonacci numbers - https://en.wikipedia.org/wiki/Fibonacci_number
 
 ## My strategy
 
-- Don't look for solutions - try to solve it myself first
-- Try to figure out algorithm complexity beforehand. Efficient algorithm for Project Euler problem should check at most 50'000'000 possibilities (to fit into recommended time limit of 1 minute). For example if I see that need to find sum of numbers below 10^7 - it gives a clue that every number should be checked in constant time (i.e. O(1))
-- One cannot know all algorithms - it's OK to google algorithms and ideas of solutions
-- After I solved the problem I try to google solutions of other people to verify my ideas and learn something from others
+- Don't look for other people solutions (as it turned out you can quite easily find the solution for almost all problems) - try to solve it myself first. It will be more fun than just copying the result from the others.
+- Try to figure out algorithm complexity beforehand. Efficient algorithm for Project Euler problem should check at most 50'000'000 possibilities (to fit into recommended time limit of 1 minute). For example if I see that need to find sum of numbers below 10^7 - it gives a clue that every number should be checked in constant time (i.e. O(1)).
+- One cannot know all algorithms - it's OK to google algorithms and ideas of solutions.
+- Solution that runs over 10 seconds on a modern hardware is most likely sub-optimal. Project Euler states that the reasonable limit for the program to find a solution is one minute, but I think only a couple of my solutions run slower than 15 seconds. If I see that I go over this limit I spend some time figuring out what can be improved.
+- After I solved the problem I try to google solutions of other people to verify my ideas and learn something from others.
 - Project Euler opens you an internal discussion thread for a problem once you solve it - it's good to check other people ideas there.
 
 ## Solved problems

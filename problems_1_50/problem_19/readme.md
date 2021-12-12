@@ -4,7 +4,7 @@
 
 ## Solution idea
 
-This is a problem where I cheated again - just used golang date-time functions.
+This is a problem where I cheated again - just used golang date-time functions (from `time` package).
 
 ## Alternative solutions
 

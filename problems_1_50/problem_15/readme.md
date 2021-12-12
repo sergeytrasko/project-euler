@@ -10,7 +10,7 @@ In this particular case - for cell (x, y) the number of path is equal to sum of 
 
 ## Alternative solutions
 
-It turns out that it can be solved with combinatorics and the result is equal to 2N choose N (binomial coefficient - C(2N, N)).
+It turns out that it can be solved with combinatorics and the result is equal to 2N choose N (binomial coefficient - `C(2N, N)`).
 
 The recursive solution will not work here as the number of paths is way too big and it goes beyond what a modern computer can calculate.
 
