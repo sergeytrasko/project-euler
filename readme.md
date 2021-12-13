@@ -149,6 +149,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#107 - Minimal network](problems_101_150/problem_107) - no description
 - [#108 - Diophantine reciprocals I](problems_101_150/problem_108) - no description
 - [#109 - Darts](problems_101_150/problem_109) - no description
+- [#111 - Primes with runs](problems_101_150/problem_111)
 - [#112 - Bouncy numbers](problems_101_150/problem_112) - no description
 - [#113 - Non-bouncy numbers](problems_101_150/problem_113) - no description
 - [#114 - Counting block combinations I](problems_101_150/problem_114) - no description
