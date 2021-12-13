@@ -163,6 +163,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#124 - Ordered radicals](problems_101_150/problem_124) - no description
 - [#125 - Palindromic sums](problems_101_150/problem_125) - no description
 - [#127 - abc-hits](problems_101_150/problem_127)
+- [#131 - Prime cube partnership](problems_101_150/problem_131)
 - [#134 - Prime pair connection](problems_101_150/problem_134) - no description
 - [#135 - Same differences](problems_101_150/problem_135) - no description
 - [#136 - Singleton difference](problems_101_150/problem_136) - no description
