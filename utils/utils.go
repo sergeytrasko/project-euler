@@ -5,6 +5,14 @@ import (
 	"sort"
 )
 
+func gcd(x, y int) int {
+	if y == 0 {
+		return x
+	} else {
+		return gcd(y, x%y)
+	}
+}
+
 func sieve(max int) []int {
 	n := make([]bool, max)
 	primes := []int{}
