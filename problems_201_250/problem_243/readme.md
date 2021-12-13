@@ -20,3 +20,5 @@ In the end `d = 2*3*5*7*11*13*17*19*23*4`
 ## Alternative solutions
 
 ## External links
+
+https://en.wikipedia.org/wiki/Euler%27s_totient_function

@@ -195,7 +195,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#347 - Largest integer divisible by two primes](problems_301_350/problem_347) - no description
 - [#348 - Sum of a square and a cube](problems_301_350/problem_348) - no description
 - [#357 - Prime generating integers](problems_351_400/problem_357) - no description
-- [#381 - prime-k) factorial](problems_351_400/problem_381) - no description
+- [#381 - (prime-k) factorial](problems_351_400/problem_381) - no description
 - [#491 - Double pandigital number divisible by 11](problems_451_500/problem_491) - no description
 - [#504 - Square on the Inside](problems_501_550/problem_504) - no description
 - [#518 - Prime triples and geometric sequences](problems_501_550/problem_518) - no description
