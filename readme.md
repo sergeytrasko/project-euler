@@ -178,6 +178,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#166 - Criss Cross](problems_151_200/problem_166) - no description
 - [#170 - Find the largest 0 to 9 pandigital that can be formed by concatenating products](problems_151_200/problem_170)
 - [#173 - Using up to one million tiles how many different "hollow" square laminae can be formed?](problems_151_200/problem_173) - no description
+- [#178 - Step Numbers](problems_151_200/problem_178)
 - [#179 - Consecutive positive divisors](problems_151_200/problem_179) - no description
 - [#182 - RSA encryption](problems_151_200/problem_182)
 - [#183 - Maximum product of parts](problems_151_200/problem_183) - no description
