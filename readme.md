@@ -164,6 +164,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#125 - Palindromic sums](problems_101_150/problem_125) - no description
 - [#127 - abc-hits](problems_101_150/problem_127)
 - [#131 - Prime cube partnership](problems_101_150/problem_131)
+- [#132 - Large repunit factors](problems_101_150/problem_132)
 - [#134 - Prime pair connection](problems_101_150/problem_134) - no description
 - [#135 - Same differences](problems_101_150/problem_135) - no description
 - [#136 - Singleton difference](problems_101_150/problem_136) - no description
@@ -181,6 +182,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#182 - RSA encryption](problems_151_200/problem_182)
 - [#183 - Maximum product of parts](problems_151_200/problem_183) - no description
 - [#187 - Semiprimes](problems_151_200/problem_187) - no description
+- [#188 - The hyperexponentiation of a number](problems_151_200/problem_188)
 - [#190 - Maximising a weighted product](problems_151_200/problem_190) - no description
 - [#191 - Prize Strings](problems_151_200/problem_191) - no description
 - [#197 - Investigating the behaviour of a recursively defined sequence](problems_151_200/problem_197) - no description
@@ -194,6 +196,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#243 - Resilience](problems_201_250/problem_243)
 - [#303 - Multiples with small digits](problems_301_350/problem_303) - no description
 - [#315 - Digital root clocks](problems_301_350/problem_315) - no description
+- [#346 - Strong Repunits](problems_301_350/problem_346)
 - [#347 - Largest integer divisible by two primes](problems_301_350/problem_347) - no description
 - [#348 - Sum of a square and a cube](problems_301_350/problem_348) - no description
 - [#357 - Prime generating integers](problems_351_400/problem_357) - no description
