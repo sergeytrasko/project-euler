@@ -121,6 +121,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#75 - Singular integer right triangles](problems_51_100/problem_75) - no description
 - [#76 - Counting summations](problems_51_100/problem_76) - no description
 - [#77 - Prime summations](problems_51_100/problem_77) - no description
+- [#78 - Coin partitions](problems_51_100/problem_78)
 - [#79 - Passcode derivation](problems_51_100/problem_79) - no description
 - [#80 - Square root digital expansion](problems_51_100/problem_80) - no description
 - [#81 - Path sum: two ways](problems_51_100/problem_81) - no description
@@ -178,6 +179,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#166 - Criss Cross](problems_151_200/problem_166) - no description
 - [#170 - Find the largest 0 to 9 pandigital that can be formed by concatenating products](problems_151_200/problem_170)
 - [#173 - Using up to one million tiles how many different "hollow" square laminae can be formed?](problems_151_200/problem_173) - no description
+- [#174 - Counting the number of "hollow" square laminae that can form one, two, three, ... distinct arrangements](problems_151_200/problem_174)
 - [#178 - Step Numbers](problems_151_200/problem_178)
 - [#179 - Consecutive positive divisors](problems_151_200/problem_179) - no description
 - [#182 - RSA encryption](problems_151_200/problem_182)
