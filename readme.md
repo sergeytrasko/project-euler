@@ -29,6 +29,8 @@ And last, but not least - I do enjoy cracking these quite challenging problems.
   - Prime numbers - https://en.wikipedia.org/wiki/Prime_number
   - Euler's totient function - https://en.wikipedia.org/wiki/Euler%27s_totient_function
   - Fibonacci numbers - https://en.wikipedia.org/wiki/Fibonacci_number
+  - Greatest common divisor - https://en.wikipedia.org/wiki/Greatest_common_divisor
+  - Pythagorean Triple - https://en.wikipedia.org/wiki/Pythagorean_triple
 
 ## My strategy
 
@@ -193,6 +195,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#204 - Generalised Hamming Numbers](problems_201_250/problem_204) - no description
 - [#205 - Dice Game](problems_201_250/problem_205) - no description
 - [#206 - Concealed Square](problems_201_250/problem_206) - no description
+- [#211 - Divisor Square Sum](problems_201_250/problem_211)
 - [#214 - Totient Chains](problems_201_250/problem_214) - no description
 - [#231 - The prime factorisation of binomial coefficients](problems_201_250/problem_231) - no description
 - [#235 - An Arithmetic Geometric sequence](problems_201_250/problem_235) - no description
@@ -205,6 +208,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#357 - Prime generating integers](problems_351_400/problem_357) - no description
 - [#381 - (prime-k) factorial](problems_351_400/problem_381) - no description
 - [#491 - Double pandigital number divisible by 11](problems_451_500/problem_491) - no description
+- [#500 - Problem 500!!](problems_451_500/problem_500)
 - [#504 - Square on the Inside](problems_501_550/problem_504) - no description
 - [#518 - Prime triples and geometric sequences](problems_501_550/problem_518) - no description
 - [#587 - Concave triangle](problems_551_600/problem_587) - no description
