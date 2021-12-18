@@ -208,6 +208,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#348 - Sum of a square and a cube](problems_301_350/problem_348) - no description
 - [#357 - Prime generating integers](problems_351_400/problem_357) - no description
 - [#381 - (prime-k) factorial](problems_351_400/problem_381) - no description
+- [#387 - Harshad Numbers](problems_351_400/problem_387)
 - [#491 - Double pandigital number divisible by 11](problems_451_500/problem_491) - no description
 - [#500 - Problem 500!!](problems_451_500/problem_500)
 - [#504 - Square on the Inside](problems_501_550/problem_504) - no description
