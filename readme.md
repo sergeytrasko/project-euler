@@ -161,6 +161,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#118 - Pandigital prime sets](problems_101_150/problem_118) - no description
 - [#119 - Digit power sum](problems_101_150/problem_119) - no description
 - [#120 - Square remainders](problems_101_150/problem_120) - no description
+- [#121 - Disc game prize fund](problems_101_150/problem_121)
 - [#122 - Efficient exponentiation](problems_101_150/problem_122) - no description
 - [#123 - Prime square remainders](problems_101_150/problem_123) - no description
 - [#124 - Ordered radicals](problems_101_150/problem_124) - no description
