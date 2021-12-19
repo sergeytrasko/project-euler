@@ -168,6 +168,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#125 - Palindromic sums](problems_101_150/problem_125) - no description
 - [#127 - abc-hits](problems_101_150/problem_127)
 - [#129 - Repunit divisibility](problems_101_150/problem_129)
+- [#130 - Composites with prime repunit property](problems_101_150/problem_130)
 - [#131 - Prime cube partnership](problems_101_150/problem_131)
 - [#132 - Large repunit factors](problems_101_150/problem_132)
 - [#134 - Prime pair connection](problems_101_150/problem_134) - no description
