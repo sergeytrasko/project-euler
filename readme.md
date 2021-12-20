@@ -194,6 +194,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#188 - The hyperexponentiation of a number](problems_151_200/problem_188)
 - [#190 - Maximising a weighted product](problems_151_200/problem_190) - no description
 - [#191 - Prize Strings](problems_151_200/problem_191) - no description
+- [#195 - Inscribed circles of triangles with one angle of 60 degrees](problems_151_200/problem_195)
 - [#197 - Investigating the behaviour of a recursively defined sequence](problems_151_200/problem_197) - no description
 - [#203 - Squarefree Binomial Coefficients](problems_201_250/problem_203) - no description
 - [#204 - Generalised Hamming Numbers](problems_201_250/problem_204) - no description
