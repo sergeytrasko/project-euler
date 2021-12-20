@@ -69,6 +69,9 @@ func squareDivisionsCount(n int) int {
 			c++
 		}
 		divisorsCount *= (1 + 2*c)
+		if n == 1 {
+			break
+		}
 	}
 	return divisorsCount
 }

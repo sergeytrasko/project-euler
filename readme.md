@@ -152,6 +152,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#107 - Minimal network](problems_101_150/problem_107) - no description
 - [#108 - Diophantine reciprocals I](problems_101_150/problem_108) - no description
 - [#109 - Darts](problems_101_150/problem_109) - no description
+- [#110 - Diophantine reciprocals II](problems_101_150/problem_110)
 - [#111 - Primes with runs](problems_101_150/problem_111)
 - [#112 - Bouncy numbers](problems_101_150/problem_112) - no description
 - [#113 - Non-bouncy numbers](problems_101_150/problem_113) - no description
@@ -203,6 +204,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#231 - The prime factorisation of binomial coefficients](problems_201_250/problem_231) - no description
 - [#235 - An Arithmetic Geometric sequence](problems_201_250/problem_235) - no description
 - [#243 - Resilience](problems_201_250/problem_243)
+- [#279 - Triangles with integral sides and an integral angle](problems_251_300/problem_279)
 - [#303 - Multiples with small digits](problems_301_350/problem_303) - no description
 - [#315 - Digital root clocks](problems_301_350/problem_315) - no description
 - [#346 - Strong Repunits](problems_301_350/problem_346)
@@ -221,3 +223,4 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#686 - Powers of Two](problems_651_700/problem_686) - no description
 - [#719 - Number Splitting](problems_701_750/problem_719) - no description
 - [#751 - Concatenation Coincidence](problems_751_800/problem_751) - no description
+- [#757 - Stealthy Numbers](problems_751_800/problem_757)
