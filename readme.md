@@ -179,6 +179,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#139 - Pythagorean tiles](problems_101_150/problem_139) - no description
 - [#142 - Perfect Square Collection](problems_101_150/problem_142) - no description
 - [#145 - How many reversible numbers are there below one-billion?](problems_101_150/problem_145) - no description
+- [#148 - Exploring Pascal's triangle](problems_101_150/problem_148)
 - [#151 - Paper sheets of standard sizes: an expected-value problem](problems_151_200/problem_151) - no description
 - [#162 - Hexadecimal numbers](problems_151_200/problem_162) - no description
 - [#164 - Numbers for which no three consecutive digits have a sum greater than a given value](problems_151_200/problem_164) - no description
