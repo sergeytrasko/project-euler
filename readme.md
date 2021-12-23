@@ -175,10 +175,13 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#134 - Prime pair connection](problems_101_150/problem_134) - no description
 - [#135 - Same differences](problems_101_150/problem_135) - no description
 - [#136 - Singleton difference](problems_101_150/problem_136) - no description
+- [#137 - Fibonacci golden nuggets](problems_101_150/problem_137)
 - [#138 - Special isosceles triangles](problems_101_150/problem_138) - no description
 - [#139 - Pythagorean tiles](problems_101_150/problem_139) - no description
+- [#140 - Modified Fibonacci golden nuggets](problems_101_150/problem_140)
 - [#142 - Perfect Square Collection](problems_101_150/problem_142) - no description
 - [#145 - How many reversible numbers are there below one-billion?](problems_101_150/problem_145) - no description
+- [#146 - Investigating a Prime Pattern](problems_101_150/problem_146)
 - [#148 - Exploring Pascal's triangle](problems_101_150/problem_148)
 - [#151 - Paper sheets of standard sizes: an expected-value problem](problems_151_200/problem_151) - no description
 - [#162 - Hexadecimal numbers](problems_151_200/problem_162) - no description
@@ -214,6 +217,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#347 - Largest integer divisible by two primes](problems_301_350/problem_347) - no description
 - [#348 - Sum of a square and a cube](problems_301_350/problem_348) - no description
 - [#357 - Prime generating integers](problems_351_400/problem_357) - no description
+- [#358 - Cyclic numbers](problems_351_400/problem_358)
 - [#381 - (prime-k) factorial](problems_351_400/problem_381) - no description
 - [#387 - Harshad Numbers](problems_351_400/problem_387)
 - [#491 - Double pandigital number divisible by 11](problems_451_500/problem_491) - no description
