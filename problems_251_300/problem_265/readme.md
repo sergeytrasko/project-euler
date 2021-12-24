@@ -21,4 +21,8 @@ Finish when reached 0 again on the `2^n-1` step.
 
 ## Alternative solutions
 
+This can be also solved by constructing de Bruijn sequences
+
 ## External links
+
+https://en.wikipedia.org/wiki/De_Bruijn_sequence
