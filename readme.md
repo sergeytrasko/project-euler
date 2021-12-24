@@ -212,7 +212,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#231 - The prime factorisation of binomial coefficients](problems_201_250/problem_231) - no description
 - [#235 - An Arithmetic Geometric sequence](problems_201_250/problem_235) - no description
 - [#243 - Resilience](problems_201_250/problem_243)
-- [#264 - Binary Circles](problems_251_300/problem_264)
+- [#265 - Binary Circles](problems_251_300/problem_265)
 - [#279 - Triangles with integral sides and an integral angle](problems_251_300/problem_279)
 - [#303 - Multiples with small digits](problems_301_350/problem_303) - no description
 - [#315 - Digital root clocks](problems_301_350/problem_315) - no description
