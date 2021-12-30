@@ -187,6 +187,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#162 - Hexadecimal numbers](problems_151_200/problem_162) - no description
 - [#164 - Numbers for which no three consecutive digits have a sum greater than a given value](problems_151_200/problem_164) - no description
 - [#166 - Criss Cross](problems_151_200/problem_166) - no description
+- [#168 - Number Rotations](problems_151_200/problem_168)
 - [#170 - Find the largest 0 to 9 pandigital that can be formed by concatenating products](problems_151_200/problem_170)
 - [#172 - Investigating numbers with few repeated digits](problems_151_200/problem_172)
 - [#173 - Using up to one million tiles how many different "hollow" square laminae can be formed?](problems_151_200/problem_173) - no description
