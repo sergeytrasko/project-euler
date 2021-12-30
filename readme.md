@@ -215,6 +215,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#243 - Resilience](problems_201_250/problem_243)
 - [#265 - Binary Circles](problems_251_300/problem_265)
 - [#279 - Triangles with integral sides and an integral angle](problems_251_300/problem_279)
+- [#291 - Panaitopol Primes](problems_251_300/problem_291)
 - [#303 - Multiples with small digits](problems_301_350/problem_303) - no description
 - [#315 - Digital root clocks](problems_301_350/problem_315) - no description
 - [#346 - Strong Repunits](problems_301_350/problem_346)
