@@ -219,6 +219,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#291 - Panaitopol Primes](problems_251_300/problem_291)
 - [#303 - Multiples with small digits](problems_301_350/problem_303) - no description
 - [#315 - Digital root clocks](problems_301_350/problem_315) - no description
+- [#345 - Matrix Sum](problems_301_350/problem_345)
 - [#346 - Strong Repunits](problems_301_350/problem_346)
 - [#347 - Largest integer divisible by two primes](problems_301_350/problem_347) - no description
 - [#348 - Sum of a square and a cube](problems_301_350/problem_348) - no description
