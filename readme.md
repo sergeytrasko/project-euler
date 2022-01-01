@@ -172,6 +172,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#130 - Composites with prime repunit property](problems_101_150/problem_130)
 - [#131 - Prime cube partnership](problems_101_150/problem_131)
 - [#132 - Large repunit factors](problems_101_150/problem_132)
+- [#133 - Repunit nonfactors](problems_101_150/problem_133)
 - [#134 - Prime pair connection](problems_101_150/problem_134) - no description
 - [#135 - Same differences](problems_101_150/problem_135) - no description
 - [#136 - Singleton difference](problems_101_150/problem_136) - no description
