@@ -129,6 +129,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#81 - Path sum: two ways](problems_51_100/problem_81) - no description
 - [#82 - Path sum: three ways](problems_51_100/problem_82) - no description
 - [#83 - Path sum: four ways](problems_51_100/problem_83) - no description
+- [#84 - Monopoly odds](problems_51_100/problem_84)
 - [#85 - Counting rectangles](problems_51_100/problem_85) - no description
 - [#86 - Cuboid route](problems_51_100/problem_86) - no description
 - [#87 - Prime power triples](problems_51_100/problem_87) - no description
