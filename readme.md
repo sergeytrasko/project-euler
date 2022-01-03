@@ -190,6 +190,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#164 - Numbers for which no three consecutive digits have a sum greater than a given value](problems_151_200/problem_164) - no description
 - [#166 - Criss Cross](problems_151_200/problem_166) - no description
 - [#168 - Number Rotations](problems_151_200/problem_168)
+- [#169 - Exploring the number of different ways a number can be expressed as a sum of powers of 2](problems_151_200/problem_169)
 - [#170 - Find the largest 0 to 9 pandigital that can be formed by concatenating products](problems_151_200/problem_170)
 - [#172 - Investigating numbers with few repeated digits](problems_151_200/problem_172)
 - [#173 - Using up to one million tiles how many different "hollow" square laminae can be formed?](problems_151_200/problem_173) - no description
@@ -215,7 +216,9 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#231 - The prime factorisation of binomial coefficients](problems_201_250/problem_231) - no description
 - [#235 - An Arithmetic Geometric sequence](problems_201_250/problem_235) - no description
 - [#243 - Resilience](problems_201_250/problem_243)
+- [#259 - Reachable Numbers](problems_251_300/problem_259)
 - [#265 - Binary Circles](problems_251_300/problem_265)
+- [#277 - A Modified Collatz sequence](problems_251_300/problem_277)
 - [#279 - Triangles with integral sides and an integral angle](problems_251_300/problem_279)
 - [#291 - Panaitopol Primes](problems_251_300/problem_291)
 - [#303 - Multiples with small digits](problems_301_350/problem_303) - no description
