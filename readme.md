@@ -133,6 +133,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#85 - Counting rectangles](problems_51_100/problem_85) - no description
 - [#86 - Cuboid route](problems_51_100/problem_86) - no description
 - [#87 - Prime power triples](problems_51_100/problem_87) - no description
+- [#88 - Product-sum numbers](problems_51_100/problem_88)
 - [#89 - Roman numerals](problems_51_100/problem_89) - no description
 - [#90 - Cube digit pairs](problems_51_100/problem_90) - no description
 - [#91 - Right triangles with integer coordinates](problems_51_100/problem_91) - no description
@@ -221,6 +222,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#277 - A Modified Collatz sequence](problems_251_300/problem_277)
 - [#279 - Triangles with integral sides and an integral angle](problems_251_300/problem_279)
 - [#291 - Panaitopol Primes](problems_251_300/problem_291)
+- [#301 - Nim](problems_301_350/problem_301)
 - [#303 - Multiples with small digits](problems_301_350/problem_303) - no description
 - [#315 - Digital root clocks](problems_301_350/problem_315) - no description
 - [#345 - Matrix Sum](problems_301_350/problem_345)
@@ -240,6 +242,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#650 - Divisors of Binomial Product](problems_601_650/problem_650) - no description
 - [#684 - Inverse Digit Sum](problems_651_700/problem_684)
 - [#686 - Powers of Two](problems_651_700/problem_686) - no description
+- [#700 - Eulercoin](problems_651_700/problem_700)
 - [#719 - Number Splitting](problems_701_750/problem_719) - no description
 - [#751 - Concatenation Coincidence](problems_751_800/problem_751) - no description
 - [#757 - Stealthy Numbers](problems_751_800/problem_757)
