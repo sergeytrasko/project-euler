@@ -222,6 +222,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#277 - A Modified Collatz sequence](problems_251_300/problem_277)
 - [#279 - Triangles with integral sides and an integral angle](problems_251_300/problem_279)
 - [#291 - Panaitopol Primes](problems_251_300/problem_291)
+- [#297 - Zeckendorf Representation](problems_251_300/problem_297)
 - [#301 - Nim](problems_301_350/problem_301)
 - [#303 - Multiples with small digits](problems_301_350/problem_303) - no description
 - [#315 - Digital root clocks](problems_301_350/problem_315) - no description
@@ -242,6 +243,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#650 - Divisors of Binomial Product](problems_601_650/problem_650) - no description
 - [#684 - Inverse Digit Sum](problems_651_700/problem_684)
 - [#686 - Powers of Two](problems_651_700/problem_686) - no description
+- [#692 - Siegbert and Jo](problems_651_700/problem_692)
 - [#700 - Eulercoin](problems_651_700/problem_700)
 - [#719 - Number Splitting](problems_701_750/problem_719) - no description
 - [#751 - Concatenation Coincidence](problems_751_800/problem_751) - no description
