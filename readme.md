@@ -218,6 +218,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#216 - Investigating the primality of numbers of the form 2n^2-1](problems_201_250/problem_216)
 - [#225 - Tribonacci non-divisors](problems_201_250/problem_225)
 - [#231 - The prime factorisation of binomial coefficients](problems_201_250/problem_231) - no description
+- [#234 - Semidivisible numbers](problems_201_250/problem_234)
 - [#235 - An Arithmetic Geometric sequence](problems_201_250/problem_235) - no description
 - [#243 - Resilience](problems_201_250/problem_243)
 - [#259 - Reachable Numbers](problems_251_300/problem_259)
