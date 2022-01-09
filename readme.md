@@ -195,6 +195,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#168 - Number Rotations](problems_151_200/problem_168)
 - [#169 - Exploring the number of different ways a number can be expressed as a sum of powers of 2](problems_151_200/problem_169)
 - [#170 - Find the largest 0 to 9 pandigital that can be formed by concatenating products](problems_151_200/problem_170)
+- [#171 - Finding numbers for which the sum of the squares of the digits is a square](problems_151_200/problem_171)
 - [#172 - Investigating numbers with few repeated digits](problems_151_200/problem_172)
 - [#173 - Using up to one million tiles how many different "hollow" square laminae can be formed?](problems_151_200/problem_173) - no description
 - [#174 - Counting the number of "hollow" square laminae that can form one, two, three, ... distinct arrangements](problems_151_200/problem_174)
