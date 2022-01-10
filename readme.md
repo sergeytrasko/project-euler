@@ -208,6 +208,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#190 - Maximising a weighted product](problems_151_200/problem_190) - no description
 - [#191 - Prize Strings](problems_151_200/problem_191) - no description
 - [#195 - Inscribed circles of triangles with one angle of 60 degrees](problems_151_200/problem_195)
+- [#193 - Squarefree Numbers](problems_151_200/problem_193)
 - [#197 - Investigating the behaviour of a recursively defined sequence](problems_151_200/problem_197) - no description
 - [#203 - Squarefree Binomial Coefficients](problems_201_250/problem_203) - no description
 - [#204 - Generalised Hamming Numbers](problems_201_250/problem_204) - no description
@@ -221,6 +222,8 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#234 - Semidivisible numbers](problems_201_250/problem_234)
 - [#235 - An Arithmetic Geometric sequence](problems_201_250/problem_235) - no description
 - [#243 - Resilience](problems_201_250/problem_243)
+- [#249 - Prime Subset Sums](problems_201_250/problem_249)
+- [#250 - 250250](problems_201_250/problem_250)
 - [#259 - Reachable Numbers](problems_251_300/problem_259)
 - [#265 - Binary Circles](problems_251_300/problem_265)
 - [#277 - A Modified Collatz sequence](problems_251_300/problem_277)
@@ -250,5 +253,6 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#692 - Siegbert and Jo](problems_651_700/problem_692)
 - [#700 - Eulercoin](problems_651_700/problem_700)
 - [#719 - Number Splitting](problems_701_750/problem_719) - no description
+- [#745 - Sum of Squares II](problems_701_750/problem_745)
 - [#751 - Concatenation Coincidence](problems_751_800/problem_751) - no description
 - [#757 - Stealthy Numbers](problems_751_800/problem_757)

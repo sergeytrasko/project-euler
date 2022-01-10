@@ -30,6 +30,27 @@ func sieve(max int) []int {
 	return primes
 }
 
+func mebius(n int) []int {
+	primes := sieve(n + 1)
+	m := make([]int, n+1)
+	for i := 0; i < len(m); i++ {
+		m[i] = 1
+	}
+	for i := 0; i < len(primes); i++ {
+		p := primes[i]
+		for pos := p; pos < len(m); pos += p {
+			m[pos] = -m[pos]
+		}
+	}
+	for i := 0; i < len(primes); i++ {
+		p := primes[i]
+		for pos := p * p; pos < len(m); pos += p * p {
+			m[pos] = 0
+		}
+	}
+	return m
+}
+
 func isPrime(p int, primes []int) bool {
 	i := sort.SearchInts(primes, p)
 	return i < len(primes) && primes[i] == p
