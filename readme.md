@@ -242,11 +242,14 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#358 - Cyclic numbers](problems_351_400/problem_358)
 - [#381 - (prime-k) factorial](problems_351_400/problem_381) - no description
 - [#387 - Harshad Numbers](problems_351_400/problem_387)
+- [#401 - Sum of squares of divisors](problems_401_450/problem_401)
+- [#429 - Sum of squares of unitary divisors](problems_401_450/problem_429)
 - [#491 - Double pandigital number divisible by 11](problems_451_500/problem_491) - no description
 - [#493 - Under The Rainbow](problems_451_500/problem_493)
 - [#500 - Problem 500!!](problems_451_500/problem_500)
 - [#504 - Square on the Inside](problems_501_550/problem_504) - no description
 - [#518 - Prime triples and geometric sequences](problems_501_550/problem_518) - no description
+- [#549 - Divisibility of factorials](problems_501_550/problem_549)
 - [#587 - Concave triangle](problems_551_600/problem_587) - no description
 - [#650 - Divisors of Binomial Product](problems_601_650/problem_650) - no description
 - [#684 - Inverse Digit Sum](problems_651_700/problem_684)

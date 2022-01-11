@@ -31,4 +31,5 @@ This approach even does not require prime factorization.
 ## External links
 
 https://en.wikipedia.org/wiki/Digital_root
+
 https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/
