@@ -23,5 +23,7 @@ The rest was relatively easy to implement.
 ## External links
 
 http://oeis.org/A002487
+
 https://mathworld.wolfram.com/SternsDiatomicSeries.html
+
 https://en.wikipedia.org/wiki/Calkin%E2%80%93Wilf_tree#Stern's_diatomic_sequence

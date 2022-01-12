@@ -183,6 +183,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#139 - Pythagorean tiles](problems_101_150/problem_139) - no description
 - [#140 - Modified Fibonacci golden nuggets](problems_101_150/problem_140)
 - [#142 - Perfect Square Collection](problems_101_150/problem_142) - no description
+- [#144 - Investigating multiple reflections of a laser beam](problems_101_150/problem_144)
 - [#145 - How many reversible numbers are there below one-billion?](problems_101_150/problem_145) - no description
 - [#146 - Investigating a Prime Pattern](problems_101_150/problem_146)
 - [#148 - Exploring Pascal's triangle](problems_101_150/problem_148)
@@ -215,6 +216,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#204 - Generalised Hamming Numbers](problems_201_250/problem_204) - no description
 - [#205 - Dice Game](problems_201_250/problem_205) - no description
 - [#206 - Concealed Square](problems_201_250/problem_206) - no description
+- [#207 - Integer partition equations](problems_201_250/problem_207)
 - [#211 - Divisor Square Sum](problems_201_250/problem_211)
 - [#214 - Totient Chains](problems_201_250/problem_214) - no description
 - [#216 - Investigating the primality of numbers of the form 2n^2-1](problems_201_250/problem_216)
@@ -251,6 +253,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#518 - Prime triples and geometric sequences](problems_501_550/problem_518) - no description
 - [#549 - Divisibility of factorials](problems_501_550/problem_549)
 - [#587 - Concave triangle](problems_551_600/problem_587) - no description
+- [#601 - Divisibility streaks](problems_601_650/problem_601)
 - [#650 - Divisors of Binomial Product](problems_601_650/problem_650) - no description
 - [#684 - Inverse Digit Sum](problems_651_700/problem_684)
 - [#686 - Powers of Two](problems_651_700/problem_686) - no description
