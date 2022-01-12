@@ -232,6 +232,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#277 - A Modified Collatz sequence](problems_251_300/problem_277)
 - [#279 - Triangles with integral sides and an integral angle](problems_251_300/problem_279)
 - [#291 - Panaitopol Primes](problems_251_300/problem_291)
+- [#293 - Pseudo-Fortunate Numbers](problems_251_300/problem_293)
 - [#297 - Zeckendorf Representation](problems_251_300/problem_297)
 - [#301 - Nim](problems_301_350/problem_301)
 - [#303 - Multiples with small digits](problems_301_350/problem_303) - no description
