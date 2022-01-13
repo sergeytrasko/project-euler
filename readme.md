@@ -221,6 +221,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#214 - Totient Chains](problems_201_250/problem_214) - no description
 - [#216 - Investigating the primality of numbers of the form 2n^2-1](problems_201_250/problem_216)
 - [#225 - Tribonacci non-divisors](problems_201_250/problem_225)
+- [#230 - Fibonacci Words](problems_201_250/problem_230)
 - [#231 - The prime factorisation of binomial coefficients](problems_201_250/problem_231) - no description
 - [#234 - Semidivisible numbers](problems_201_250/problem_234)
 - [#235 - An Arithmetic Geometric sequence](problems_201_250/problem_235) - no description
@@ -241,6 +242,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#346 - Strong Repunits](problems_301_350/problem_346)
 - [#347 - Largest integer divisible by two primes](problems_301_350/problem_347) - no description
 - [#348 - Sum of a square and a cube](problems_301_350/problem_348) - no description
+- [#351 - Hexagonal orchards](problems_351_400/problem_351)
 - [#357 - Prime generating integers](problems_351_400/problem_357) - no description
 - [#358 - Cyclic numbers](problems_351_400/problem_358)
 - [#381 - (prime-k) factorial](problems_351_400/problem_381) - no description
