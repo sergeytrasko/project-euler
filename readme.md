@@ -187,6 +187,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#145 - How many reversible numbers are there below one-billion?](problems_101_150/problem_145) - no description
 - [#146 - Investigating a Prime Pattern](problems_101_150/problem_146)
 - [#148 - Exploring Pascal's triangle](problems_101_150/problem_148)
+- [#149 - Searching for a maximum-sum subsequence](problems_101_150/problem_149)
 - [#151 - Paper sheets of standard sizes: an expected-value problem](problems_151_200/problem_151) - no description
 - [#155 - Counting Capacitor Circuits](problems_151_200/problem_155)
 - [#159 - Digital root sums of factorisations](problems_151_200/problem_159)
