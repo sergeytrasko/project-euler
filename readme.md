@@ -265,6 +265,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#692 - Siegbert and Jo](problems_651_700/problem_692)
 - [#700 - Eulercoin](problems_651_700/problem_700)
 - [#719 - Number Splitting](problems_701_750/problem_719) - no description
+- [#725 - Digit sum numbers](problems_701_750/problem_725)
 - [#745 - Sum of Squares II](problems_701_750/problem_745)
 - [#751 - Concatenation Coincidence](problems_751_800/problem_751) - no description
 - [#757 - Stealthy Numbers](problems_751_800/problem_757)
