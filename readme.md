@@ -251,6 +251,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#387 - Harshad Numbers](problems_351_400/problem_387)
 - [#401 - Sum of squares of divisors](problems_401_450/problem_401)
 - [#429 - Sum of squares of unitary divisors](problems_401_450/problem_429)
+- [#479 - Roots on the Rise](problems_451_500/problem_479)
 - [#491 - Double pandigital number divisible by 11](problems_451_500/problem_491) - no description
 - [#493 - Under The Rainbow](problems_451_500/problem_493)
 - [#500 - Problem 500!!](problems_451_500/problem_500)
