@@ -260,6 +260,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#549 - Divisibility of factorials](problems_501_550/problem_549)
 - [#587 - Concave triangle](problems_551_600/problem_587) - no description
 - [#601 - Divisibility streaks](problems_601_650/problem_601)
+- [#618 - Numbers with a given prime factor sum](problems_601_650/problem_618)
 - [#650 - Divisors of Binomial Product](problems_601_650/problem_650) - no description
 - [#684 - Inverse Digit Sum](problems_651_700/problem_684)
 - [#686 - Powers of Two](problems_651_700/problem_686) - no description
