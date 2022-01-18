@@ -190,6 +190,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#149 - Searching for a maximum-sum subsequence](problems_101_150/problem_149)
 - [#151 - Paper sheets of standard sizes: an expected-value problem](problems_151_200/problem_151) - no description
 - [#155 - Counting Capacitor Circuits](problems_151_200/problem_155)
+- [#158 - Exploring strings for which only one character comes lexicographically after its neighbour to the left](problems_151_200/problem_158)
 - [#159 - Digital root sums of factorisations](problems_151_200/problem_159)
 - [#160 - Factorial trailing digits](problems_151_200/problem_160)
 - [#162 - Hexadecimal numbers](problems_151_200/problem_162) - no description
