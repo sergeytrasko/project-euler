@@ -240,6 +240,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#297 - Zeckendorf Representation](problems_251_300/problem_297)
 - [#301 - Nim](problems_301_350/problem_301)
 - [#303 - Multiples with small digits](problems_301_350/problem_303) - no description
+- [#304 - Primonacci](problems_301_350/problem_304)
 - [#315 - Digital root clocks](problems_301_350/problem_315) - no description
 - [#345 - Matrix Sum](problems_301_350/problem_345)
 - [#346 - Strong Repunits](problems_301_350/problem_346)
