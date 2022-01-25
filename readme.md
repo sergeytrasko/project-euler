@@ -254,12 +254,14 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#401 - Sum of squares of divisors](problems_401_450/problem_401)
 - [#429 - Sum of squares of unitary divisors](problems_401_450/problem_429)
 - [#479 - Roots on the Rise](problems_451_500/problem_479)
+- [#485 - Maximum number of divisors](problems_451_500/problem_485)
 - [#491 - Double pandigital number divisible by 11](problems_451_500/problem_491) - no description
 - [#493 - Under The Rainbow](problems_451_500/problem_493)
 - [#500 - Problem 500!!](problems_451_500/problem_500)
 - [#504 - Square on the Inside](problems_501_550/problem_504) - no description
 - [#518 - Prime triples and geometric sequences](problems_501_550/problem_518) - no description
 - [#549 - Divisibility of factorials](problems_501_550/problem_549)
+- [#571 - Super Pandigital Numbers](problems_551_600/problem_571)
 - [#587 - Concave triangle](problems_551_600/problem_587) - no description
 - [#601 - Divisibility streaks](problems_601_650/problem_601)
 - [#618 - Numbers with a given prime factor sum](problems_601_650/problem_618)
