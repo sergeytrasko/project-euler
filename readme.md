@@ -273,5 +273,6 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#719 - Number Splitting](problems_701_750/problem_719) - no description
 - [#725 - Digit sum numbers](problems_701_750/problem_725)
 - [#745 - Sum of Squares II](problems_701_750/problem_745)
+- [#749 - Near Power Sums](problems_701_750/problem_749)
 - [#751 - Concatenation Coincidence](problems_751_800/problem_751) - no description
 - [#757 - Stealthy Numbers](problems_751_800/problem_757)
