@@ -249,6 +249,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#351 - Hexagonal orchards](problems_351_400/problem_351)
 - [#357 - Prime generating integers](problems_351_400/problem_357) - no description
 - [#358 - Cyclic numbers](problems_351_400/problem_358)
+- [#365 - A huge binomial coefficient](problems_351_400/problem_365)
 - [#381 - (prime-k) factorial](problems_351_400/problem_381) - no description
 - [#387 - Harshad Numbers](problems_351_400/problem_387)
 - [#401 - Sum of squares of divisors](problems_401_450/problem_401)
@@ -260,6 +261,7 @@ Mostly breakdown does not explain each and every aspect of the solution - my goa
 - [#500 - Problem 500!!](problems_451_500/problem_500)
 - [#504 - Square on the Inside](problems_501_550/problem_504) - no description
 - [#518 - Prime triples and geometric sequences](problems_501_550/problem_518) - no description
+- [#531 - Chinese leftovers](problems_501_550/problem_531)
 - [#549 - Divisibility of factorials](problems_501_550/problem_549)
 - [#571 - Super Pandigital Numbers](problems_551_600/problem_571)
 - [#587 - Concave triangle](problems_551_600/problem_587) - no description
